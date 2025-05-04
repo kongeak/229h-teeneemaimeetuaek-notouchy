@@ -1,9 +1,9 @@
+using TMPro; // ใช้ TextMesh Pro แทน
 using UnityEngine;
-using UnityEngine.UI;
 
 public class DinoWinTrigger : MonoBehaviour
 {
-    public Text winText;
+    public TextMeshProUGUI winText;
 
     private void Start()
     {
