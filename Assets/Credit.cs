@@ -1,12 +1,11 @@
-using System.Collections;
-using System.Collections.Generic;
+
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class Credit : MonoBehaviour
 {
-    public void Credit()
+    public void GoToCredit()
     {
-        SceneManager.LoadScene("CreditScene"); // เปลี่ยนชื่อให้ตรงกับฉากจริง
+        SceneManager.LoadScene("CreditScene");
     }
 }
