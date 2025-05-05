@@ -769,8 +769,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -53, y: 66}
-  m_SizeDelta: {x: 275.7352, y: 96.1869}
+  m_AnchoredPosition: {x: -51.790863, y: 67}
+  m_SizeDelta: {x: 278.1535, y: 96.1869}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2023867995
 MonoBehaviour:
@@ -799,13 +799,16 @@ MonoBehaviour:
 
     Member
 
-    Ms.Tanutchaporn Khuanrien 229H [Role : Environment
-    Artist / Level Designer]
+    1660707546
 
-    Mr.Jirawat Siramoon 229H Role : [UI Designer]
+    Ms.Tanutchaporn Khuanrien 229H
+    [Role : Environment Artist / Level Designer]
 
-    Mr.Kong-eak
-    Nitikrinon 229H [Gameplay Programmer]'
+    1660707637 Mr.Jirawat Siramoon
+    229H Role : [UI Designer]
+
+    1660707942 Mr.Kong-eak Nitikrinon 229H [Gameplay
+    Programmer]'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
